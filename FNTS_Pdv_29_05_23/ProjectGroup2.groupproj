@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{2E108F57-04D8-4B9B-89DA-095FEA2C7276}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Pdv.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="C:\Users\Public\Documents\Embarcadero\Studio\20.0\Componentes\ACBR revision 19978\Exemplos\ACBrSerial\ACBrPosPrinter\Delphi\PosPrinterTeste.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Pdv">
+        <MSBuild Projects="Pdv.dproj"/>
+    </Target>
+    <Target Name="Pdv:Clean">
+        <MSBuild Projects="Pdv.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Pdv:Make">
+        <MSBuild Projects="Pdv.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PosPrinterTeste">
+        <MSBuild Projects="C:\Users\Public\Documents\Embarcadero\Studio\20.0\Componentes\ACBR revision 19978\Exemplos\ACBrSerial\ACBrPosPrinter\Delphi\PosPrinterTeste.dproj"/>
+    </Target>
+    <Target Name="PosPrinterTeste:Clean">
+        <MSBuild Projects="C:\Users\Public\Documents\Embarcadero\Studio\20.0\Componentes\ACBR revision 19978\Exemplos\ACBrSerial\ACBrPosPrinter\Delphi\PosPrinterTeste.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PosPrinterTeste:Make">
+        <MSBuild Projects="C:\Users\Public\Documents\Embarcadero\Studio\20.0\Componentes\ACBR revision 19978\Exemplos\ACBrSerial\ACBrPosPrinter\Delphi\PosPrinterTeste.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Pdv;PosPrinterTeste"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Pdv:Clean;PosPrinterTeste:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Pdv:Make;PosPrinterTeste:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
