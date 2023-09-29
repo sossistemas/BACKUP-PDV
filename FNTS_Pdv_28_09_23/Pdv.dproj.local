@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/19 00:39:12.000.319,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\teste.dfm</Transaction>
+    <Transaction>2017/07/04 10:36:01.000.365,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\MensagemAdicional.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.dfm</Transaction>
+    <Transaction>2017/07/04 10:36:01.000.365,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\MensagemAdicional.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.pas</Transaction>
+    <Transaction>2017/11/05 22:03:22.000.368,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\uBandeira.dfm</Transaction>
+    <Transaction>2017/11/05 22:13:12.000.907,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce 4.0\Parcelas.dfm</Transaction>
+    <Transaction>2018/03/05 11:07:07.000.640,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\impDelivery.dfm</Transaction>
+    <Transaction>2018/03/07 21:26:30.000.564,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Pdv_Nfce.dproj=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv_Nfce\Pdv.dproj</Transaction>
+    <Transaction>2018/05/03 00:14:02.000.039,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\LongPressEvent.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.pas</Transaction>
+    <Transaction>2018/06/07 01:15:48.000.931,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Recebimento.dfm</Transaction>
+    <Transaction>2018/06/07 13:26:41.000.662,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Receber_Valor.dfm</Transaction>
+    <Transaction>2018/06/07 13:39:12.000.372,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Teclado.dfm</Transaction>
+    <Transaction>2018/07/16 22:13:45.000.017,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\venda_convenio.dfm</Transaction>
+    <Transaction>2018/07/29 16:51:46.000.743,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\FechamentoCego.dfm</Transaction>
+    <Transaction>2018/09/05 11:37:21.000.698,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\CuponsSAT.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.pas</Transaction>
+    <Transaction>2018/09/05 11:37:21.000.698,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\CuponsSAT.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm</Transaction>
+    <Transaction>2018/12/19 14:59:43.000.817,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\PegaCupomGerencial.dfm</Transaction>
+    <Transaction>2018/12/19 16:59:21.000.117,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\RecebimentoEspecial.dfm</Transaction>
+    <Transaction>2018/12/28 14:19:19.000.673,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\LerCupomCreditoReceber.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm</Transaction>
+    <Transaction>2018/12/28 14:19:19.000.673,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\LerCupomCreditoReceber.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.pas</Transaction>
+    <Transaction>2019/01/10 18:29:42.000.149,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\EnviaContingencia.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm</Transaction>
+    <Transaction>2019/01/10 18:29:42.000.149,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\EnviaContingencia.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.pas</Transaction>
+    <Transaction>2019/04/02 17:12:51.000.408,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Personalizados\uTEF.pas=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.pas</Transaction>
+    <Transaction>2019/04/02 17:12:51.000.408,G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Personalizados\uTEF.dfm=G:\Prog\Store Protheus 8.1\Projetos\Fontes\FNTS_Pdv\Unit1.dfm</Transaction>
+    <Transaction>2019/04/15 19:24:56.000.787,D:\Prog\SYStore\Projetos\Fontes\FNTS_Comuns\OnLine.dfm=D:\Prog\SYStore\Projetos\Fontes\FNTS_Pdv\Unit1.dfm</Transaction>
+    <Transaction>2019/06/03 10:19:00.000.119,D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\Unit1.dfm=D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\MenuFiscalECF.dfm</Transaction>
+    <Transaction>2019/06/03 11:15:34.000.415,D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\Unit1.dfm=D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\FiltroFiscalECF.dfm</Transaction>
+    <Transaction>2019/06/23 09:07:28.000.131,D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\Unit1.dfm=D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\ErroEnvioNfce.dfm</Transaction>
+    <Transaction>2019/09/27 10:14:01.000.523,D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\Unit1.dfm=D:\Prog\SYStore\Projeto\Fontes\FNTS_Pdv\SolicitaAutorizacaoGerencial.dfm</Transaction>
+    <Transaction>2020/07/16 17:19:35.000.487,D:\Projetos\SOS Solutions\Fontes - SOS - UP14\Fontes\FNTS_Pdv\Unit1.pas=D:\Projetos\SOS Solutions\Fontes - SOS - UP14\Fontes\FNTS_Pdv\uAlterarValor.pas</Transaction>
+    <Transaction>2020/07/16 17:19:35.000.487,D:\Projetos\SOS Solutions\Fontes - SOS - UP14\Fontes\FNTS_Pdv\Unit1.dfm=D:\Projetos\SOS Solutions\Fontes - SOS - UP14\Fontes\FNTS_Pdv\uAlterarValor.dfm</Transaction>
+    <Transaction>2023/03/30 16:21:53.000.714,=C:\SOS Solutions\SOS Solutions\Fontes - SOS - UP 14\Fontes\FNTS_Personalizados\ACBrTEFD.pas</Transaction>
+  </Transactions>
+</BorlandProject>
